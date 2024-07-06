@@ -19,7 +19,7 @@ public class Bins {
             int temp = low++;
             binMap.put(temp,0);
         }
-        System.out.println(binMap);
+//        System.out.println(binMap);
     }
 
     public void incrementBin(int key){
